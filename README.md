@@ -33,8 +33,7 @@ GIF created with Kap
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+It was challenging to convert data from a JSON object to HTML DOM and implement filter features while maintaining conciseness with intermediate Javascript functions.
 
 ## License
 
