@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/hGDShAf.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Kapture 2024-02-03 at 18 35 23](https://github.com/AnishBashyal/web102_prework/assets/53051451/38b07206-f510-4734-b2b7-f2d49b621ed0)
-
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
 <!-- Recommended tools:
